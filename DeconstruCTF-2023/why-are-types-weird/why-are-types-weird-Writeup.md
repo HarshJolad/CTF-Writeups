@@ -30,7 +30,7 @@ if (isset($_GET['but_submit'])) {
 |Loose Comparison|Strict Comparison|
 |---|---|
 |**Only value** is checked and **NOT** the type of the variable|Both **value** and **Type** are checked|
-|**===** or **!==** | **==** or **!=**|
+|**==** or **!=** | **===** or **!==**|
 * [Read here on Type Juggling in PHP](https://medium.com/@Asm0d3us/part-1-php-tricks-in-web-ctf-challenges-e1981475b3e4)
 * If we look closely at the source code we can see that there is a loose comparison (==) between the SHA1 hash and 0, we can exploit this comparison.
 * So somehow we need to find a value whose SHA1 hash value starts with `0e`
