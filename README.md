@@ -6,3 +6,4 @@ Repository for CTF writeups
 * [**Digital Defenders CTF 2023**](https://github.com/HarshJolad/CTF-Writeups/tree/master/Digital%20Defenders%20CTF%202023)
 * [**KPMG CTF 2023**](https://github.com/HarshJolad/CTF-Writeups/tree/master/KPMG-CTF-2023#kicyber-ctf-2023-writeups)
 * [**flaws.cloud**](https://github.com/HarshJolad/CTF-Writeups/tree/master/flaws.cloud)
+* [**ISFCR EC CTF 2023**](./ISFCR_EC_CTF/README.md)

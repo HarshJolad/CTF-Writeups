@@ -1,0 +1,1 @@
+The encoded flag is: b'gAAAAABk76o1ijCm0VEkemhiVI7Zbmj6zBo5pYsPs3yflYKvpxORdmPWFW97-nZfB1fGtibgUVCrASFsv5XlCrBXg_TVXCc7hXC0U5hCQ03aGrl6VS7GQ8ZXA6O2lvd1kzq4QKpdf7Yz'
