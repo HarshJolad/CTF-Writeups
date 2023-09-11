@@ -3,11 +3,11 @@
 Writeups for Cyber Heroines CTF 2023. 
 
 ## Forensics
-* [**Barbara Liskov**](./Forensics/Barbara_Liskov/readme.md)
-* [**Margaret Hamilton**](./Forensics/Margaret_Hamilton/readme.md)
-* [**Elizabeth Feinler**](./Forensics/Elizabeth_Feinler/readme.md)
-* [**Stephanie Wehner**](./Forensics/Stephanie_Wehner/readme.md)
-* [**Marian Croak**](./Forensics/Marian_Croak/readme.md)
+* [**Barbara Liskov**](https://github.com/HarshJolad/CTF-Writeups/tree/master/CyberHeroines-CTF-2023/forensics/Barbara_Liskov#barbara-liskov)
+* [**Margaret Hamilton**](https://github.com/HarshJolad/CTF-Writeups/blob/master/CyberHeroines-CTF-2023/forensics/Margaret_Hamilton/readme.md#margaret-hamilton)
+* [**Elizabeth Feinler**](https://github.com/HarshJolad/CTF-Writeups/blob/master/CyberHeroines-CTF-2023/forensics/Elizabeth_Feinler/readme.md#elizabeth-feinler)
+* [**Stephanie Wehner**](https://github.com/HarshJolad/CTF-Writeups/blob/master/CyberHeroines-CTF-2023/forensics/Stephanie_Wehner/readme.md#stephanie-wehner)
+* [**Marian Croak**](https://github.com/HarshJolad/CTF-Writeups/blob/master/CyberHeroines-CTF-2023/forensics/Marian_Croak/readme.md#marian-croak)
 
 ## RE
 * [**Anita Borg**](./re/Anita_Borg/readme.md)
