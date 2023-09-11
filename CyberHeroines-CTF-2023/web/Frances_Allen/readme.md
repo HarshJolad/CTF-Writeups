@@ -21,6 +21,8 @@
 * As `{{7*7}}` returns `49` we can confirm that the page is vulnerable to SSTI and is using the `Jinja2` template engine.
 <br><br>
 
+![ssti flowchart](image-5.png)
+
 **Forming the payload**
 * call the current class instance using `__class__`, call this on an empty string
     ```
