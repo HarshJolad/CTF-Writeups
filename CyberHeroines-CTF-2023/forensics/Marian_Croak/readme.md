@@ -11,13 +11,13 @@ or
 [Voip.zip](./Voip.zip)
 
 ## Solution
-* Using the `Sleuth Kit` CLI was of no use.
+* Using the `Sleuth Kit` CLI was of not much use.
 * Opening the image file in `Autopsy` and looking at the `Deleted Files` tab we see a `.pcap` file.
 ![autopsy](image.png)
-* We can extract the file and open it in `Wireshark`.
+* We can recover the deleted `.pcap` file and open it in `Wireshark`.
 * Open the pcap file and look for VoIP Calls (`Telephony > VoIP Calls`)
+* Listen to the last audio from `testuser` and we get the flag.
 ![wireshark voip calls](image-1.png)
-* PLay the last audio and we get the flag.
 
 ### FLAG
 ```
