@@ -11,6 +11,20 @@ or
 [Voip.zip](./Voip.zip)
 
 ## Solution
+* Running `fls` on the image file gives us the following output:
+    ```shell
+    $ fls disk.img
+    d/d 11:	lost+found
+    r/r 14:	flag.txt
+    V/V 12825:	$OrphanFiles
+    ```
+* We can see that there is a `flag.txt` file in the image file.
+* Running `icat` on the image file, we get a fake flag:
+    ```bash
+    $ icat disk.img 14                                                                                                   
+    chctf{fake_flag_it_is}
+    ```
+
 * Using the `Sleuth Kit` CLI was of not much use.
 * Opening the image file in `Autopsy` and looking at the `Deleted Files` tab we see a `.pcap` file.
 ![autopsy](image.png)
