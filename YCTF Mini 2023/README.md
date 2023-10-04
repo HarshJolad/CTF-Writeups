@@ -3,8 +3,8 @@
 This contains the writeups for challenges of YCTF Mini 2023.
 
 ## Miscellaneous
-* [Unchained 1]()
-* [Unchained 2]()
+* [Unchained 1](./Unchained%201/readme.md)
+* [Unchained 2](./Unchained%202/readme.md)
 
 ## Forensics
 * [Death Song](./Death%20Song/readme.md)
