@@ -13,4 +13,5 @@ This contains the writeups for challenges of Snyk Fetch The Flag 2023.
 * [Jott](./Jott/readme.md)
 * [Protecting Camp](./Protecting%20Camp/readme.md)
 * [Unhackable Andy](./Unhackable%20Andy/readme.md)
+* [Unhackable Andy 2](./Unhackable%20Andy%202/readme.md)
 
