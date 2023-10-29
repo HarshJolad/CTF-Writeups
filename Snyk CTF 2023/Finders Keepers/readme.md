@@ -7,7 +7,7 @@
 * From the description, we know that the flag is in the home directory of the user `patch`.
 * But we cannot access the home directory of `patch` because we don't have the permission to do so.
 ![patch](image.png)
-* `sudo` wasnt even there 💀
+* `sudo` wasnt even there 💀  
 ![sudo](image-1.png)
 * Looking for the flag using `find`
 ![Alt text](image-2.png)
