@@ -11,7 +11,7 @@
 ![creds](image.png)
 * Using the credentials we can login to the website and we find a box to run commands
 * Running `ls`, we see theres a `flag.txt` file
-* Running `cat flag.txt`, we get the flag
+* Running `cat flag.txt`, we get the flag  
 ![flag](image-1.png)
 
 ### FLAG
