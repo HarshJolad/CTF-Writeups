@@ -1,2 +1,0 @@
-# Where's My Dog
-

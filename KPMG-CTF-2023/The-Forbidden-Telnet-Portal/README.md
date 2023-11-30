@@ -1,2 +1,0 @@
-# The-Forbidden-Telnet-Portal
-

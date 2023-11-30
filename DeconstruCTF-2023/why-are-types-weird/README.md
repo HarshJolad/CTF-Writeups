@@ -1,2 +1,0 @@
-# why-are-types-weird
-

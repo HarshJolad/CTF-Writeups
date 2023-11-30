@@ -1,2 +1,0 @@
-# Unveiling the Hidden Message
-
