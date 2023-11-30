@@ -69,4 +69,7 @@
     | Only value is checked and NOT the type of the variable | Both value and Type are checked |
     | == or != | === or !== |
 
-### **FLAG: `CSEK{typ3_juggl1ng_1n_php}`**
+### FLAG
+```
+CSEK{typ3_juggl1ng_1n_php}
+```

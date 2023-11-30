@@ -130,4 +130,7 @@ O:8:"CloudSEK":2:{s:7:"func_no";i:3;s:9:"func_name";s:13:"TrgZrQrzSyntm";}
 
 ![Untitled](Untitled.png)
 
-### **Flag: `CSEK{PhP_0Bj3CT_D3$3R1L1Z@T10N}`**
+### FLAG
+```
+CSEK{PhP_0Bj3CT_D3$3R1L1Z@T10N}
+``` 

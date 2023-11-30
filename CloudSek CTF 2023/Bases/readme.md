@@ -51,4 +51,7 @@ io.close()
 
 ![flag](Untitled.png)
 
-### **FLAG: `CSEK{3he_bas3_dec04er}`**
+### FLAG
+```
+CSEK{3he_bas3_dec04er}
+```
