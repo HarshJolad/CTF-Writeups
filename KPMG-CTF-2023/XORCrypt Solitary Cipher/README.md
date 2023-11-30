@@ -1,0 +1,2 @@
+# XORCrypt Solitary Cipher
+
